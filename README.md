@@ -1,4 +1,4 @@
-# YOLO - EXAMPLE - ScD
+# YOLO - EXAMPLE - ScD - CRISTIAN FELIPE QUIROGA GOMEZ - U00182600
 
 Creación de una instancia de EC2 en AWS con Ubuntu server
 <img width="1909" height="1015" alt="Captura de pantalla 2025-12-05 205928" src="https://github.com/user-attachments/assets/fec2d0cc-8612-49d8-8478-4189caa4e65a" />
