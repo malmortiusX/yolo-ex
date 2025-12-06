@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "e45d49ab-aa96-4cb3-9ca4-3c669c9177d3"
+      }
+    },
+    "android": {
+      "package": "com.cristian0594.detectorplacas"
+    }
+  }
+}
